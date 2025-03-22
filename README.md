@@ -15,8 +15,8 @@ pip install bleak pylsl numpy scipy pynput
 ```
 
 ## Usage
-1. First, Upload Arduino BLE Firmware from the Github Repo.
-2. Then, Clone the folder
+1. First, Upload Arduino BLE Firmware from the Github Repo. (https://github.com/upsidedownlabs/Chords-Arduino-Firmware/tree/main/NPG-LITE-BLE)
+2. Then, Clone the folder (https://github.com/PayalLakra/NeuroEgg)
 3. Run:
 ```bash
 python main.py
