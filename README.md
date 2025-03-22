@@ -1,6 +1,6 @@
-# NeuroEgg
+# NeuroEgg Game
 
-This project connects to a BLE EMG device, processes real-time muscle activity data, and triggers keyboard actions based on the processed signal.
+This project connects to a NPG-Lite device via bluetooth, processes real-time muscle activity data, and triggers keyboard actions based on the processed signal.
 
 ## Features
 - Connects to a BLE device and receives EMG data.
